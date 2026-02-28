@@ -1,2 +1,5 @@
-# customer-behavior-data-analysis
-Retail customer analytics project covering data cleaning (Python), business queries (SQL), and dashboard visualization (Power BI).
+
+👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+
+This project represents a complete, industry-standard, end-to-end data analytics workflow designed to mirror the real responsibilities of professional analysts in modern business environments. It encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+
